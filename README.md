@@ -1,7 +1,6 @@
 Hello Guys 👋, I'm Rupan Packiaraj
 
-Linkedin: 
-Spotify:
+Linkedin: /brupanraj
 
 I'm working as a Data Analyst / Data Engineer @404DM, Chennai, India. I strongly advocate my fellow classmates to get into Open Source 📢 @MasterERTS. Besides software engineering, I'm a Small Forward in my Basketball Varsity team.
 
