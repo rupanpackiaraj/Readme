@@ -29,4 +29,4 @@ I'm working as a Data Analyst / Data Engineer @404DM, Chennai, India; Also a Fre
 
 📅 I'm Most Productive on Tuesday;
 
-⌚︎ Time Zone: Asia/India
+⌚︎ Time Zone: Asia/India;
